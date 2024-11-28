@@ -9,7 +9,7 @@ Overview of useful tools, applications, etc.
 - Mozilla Firefox: Restore lost sessions
   - https://www.jeffersonscher.com/ffu/scrounger.html Session History Scrounger for Firefox
 - Verify IBANs (International Bank Account Number)
-  - https://www.iban-rechner.de/
+  - https://www.iban-rechner.de/ IBAN-Rechner
 - Calculate interest rates
   - https://www.zinsen-berechnen.de/tagesgeldrechner.php Zinsen berechnen: Tagesgeldrechner für tageweise Geldanlage
 - Calendar online

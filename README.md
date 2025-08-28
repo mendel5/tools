@@ -19,3 +19,5 @@ Overview of useful tools, applications, etc.
   - https://www.timeanddate.com/date/duration.html Date Duration Calculator: Days Between Dates
 - Arbeitstage-Rechner
   - https://www.arbeitstage.org/arbeitstage-rechner/ Work day calculator
+- Convert text case
+  - https://convertcase.net/
